@@ -2606,7 +2606,7 @@ PrefabInstance:
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}
       propertyPath: bottomCoord
-      value: -5,5
+      value: -5.5
       objectReference: {fileID: 0}
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}

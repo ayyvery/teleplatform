@@ -565,7 +565,7 @@ PrefabInstance:
     - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
       propertyPath: speed
-      value: 0.05
+      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: 5264833051786190973, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
@@ -1951,7 +1951,7 @@ PrefabInstance:
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}
       propertyPath: bottomCoord
-      value: -6;-4,26
+      value: -6;-4.26
       objectReference: {fileID: 0}
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}
@@ -1996,7 +1996,7 @@ PrefabInstance:
     - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
       propertyPath: speed
-      value: 0.05
+      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: 5264833051786190973, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
