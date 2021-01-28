@@ -5,8 +5,8 @@ using UnityEngine;
 public class ProjectileLauncher : MonoBehaviour
 {
     public GameObject projectile;
-    public float speed = 3f;
-    public float delay = 3f;
+    public float speed = 0.02f;
+    public float delay = 2.5f;
 
     // Start is called before the first frame update
     void Start()

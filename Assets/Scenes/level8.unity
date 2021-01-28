@@ -556,6 +556,17 @@ PrefabInstance:
       propertyPath: delay
       value: 2.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
+        type: 3}
+      propertyPath: projectile
+      value: 
+      objectReference: {fileID: 8978115651135450648, guid: 8228f393f20b8764aa1105b387030581,
+        type: 3}
+    - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
+        type: 3}
+      propertyPath: speed
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5264833051786190973, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1940,7 +1951,7 @@ PrefabInstance:
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}
       propertyPath: bottomCoord
-      value: -6;-4.26
+      value: -6;-4,26
       objectReference: {fileID: 0}
     - target: {fileID: 4094674892520472212, guid: 84a56c19726e20348a5c078013af642a,
         type: 3}
@@ -1975,6 +1986,17 @@ PrefabInstance:
         type: 3}
       propertyPath: delay
       value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
+        type: 3}
+      propertyPath: projectile
+      value: 
+      objectReference: {fileID: 8978115651135450648, guid: 8228f393f20b8764aa1105b387030581,
+        type: 3}
+    - target: {fileID: 5264833051786190972, guid: 361921013a99c3445b5365d25d009f42,
+        type: 3}
+      propertyPath: speed
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5264833051786190973, guid: 361921013a99c3445b5365d25d009f42,
         type: 3}
