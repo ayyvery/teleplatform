@@ -244,6 +244,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 00a17dc32e9259f4690ac6a5826fbf83,
         type: 3}
+    - target: {fileID: 1847565492532822407, guid: fe61846411a030048853c547bbea4f86,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 666de0ce15a89614aa360a4914f66c8e, type: 2}
     - target: {fileID: 1847565492532822408, guid: fe61846411a030048853c547bbea4f86,
         type: 3}
       propertyPath: m_Name
@@ -526,6 +531,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 00a17dc32e9259f4690ac6a5826fbf83,
         type: 3}
+    - target: {fileID: 1847565492532822407, guid: fe61846411a030048853c547bbea4f86,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 666de0ce15a89614aa360a4914f66c8e, type: 2}
     - target: {fileID: 1847565492532822408, guid: fe61846411a030048853c547bbea4f86,
         type: 3}
       propertyPath: m_Name
@@ -662,6 +672,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 00a17dc32e9259f4690ac6a5826fbf83,
         type: 3}
+    - target: {fileID: 1847565492532822407, guid: fe61846411a030048853c547bbea4f86,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 666de0ce15a89614aa360a4914f66c8e, type: 2}
     - target: {fileID: 1847565492532822408, guid: fe61846411a030048853c547bbea4f86,
         type: 3}
       propertyPath: m_Name
@@ -1175,6 +1190,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 00a17dc32e9259f4690ac6a5826fbf83,
         type: 3}
+    - target: {fileID: 1847565492532822407, guid: fe61846411a030048853c547bbea4f86,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 666de0ce15a89614aa360a4914f66c8e, type: 2}
     - target: {fileID: 1847565492532822408, guid: fe61846411a030048853c547bbea4f86,
         type: 3}
       propertyPath: m_Name
