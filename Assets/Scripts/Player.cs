@@ -112,7 +112,10 @@ public class Player : MonoBehaviour
 
         if (collision.transform.gameObject.tag == "levelFinish")
         {
+            string sceneName = SceneManager.GetActiveScene().name;
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            byte levelID = byte.Parse(sceneName.Remove(0, 5));
+            PlayerPrefs.SetInt("level", levelID);
         }
 
         if (collision.transform.gameObject.tag == "doubleJump")
@@ -154,8 +157,6 @@ public class Player : MonoBehaviour
             {
                 angle = -(360 - collision.transform.parent.localRotation.eulerAngles.z) / 90;
             }
-
-            Debug.Log(angle);
 
             if (angle > 1)
             {
