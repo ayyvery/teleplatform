@@ -14,7 +14,7 @@ public class menu : MonoBehaviour
     }
     public void onContinue()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("level" + PlayerPrefs.GetInt("level", 1).ToString());
     }
 
     public void onLevelSelect()
