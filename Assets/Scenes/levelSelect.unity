@@ -2120,6 +2120,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3799d7ad9b8f6234b999e0cca4cd0986, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buttons:
+  - {fileID: 48277572}
+  - {fileID: 1611136032}
+  - {fileID: 148032654}
+  - {fileID: 530626111}
+  - {fileID: 1024033991}
+  - {fileID: 2052652973}
+  - {fileID: 1590970896}
+  - {fileID: 1475377968}
+  - {fileID: 1231879543}
+  - {fileID: 1025833842}
+  - {fileID: 1647048251}
+  - {fileID: 1403608673}
 --- !u!114 &1039028921
 MonoBehaviour:
   m_ObjectHideFlags: 0
