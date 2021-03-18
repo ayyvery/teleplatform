@@ -113,7 +113,11 @@ public class Player : MonoBehaviour
         if (collision.transform.gameObject.tag == "levelFinish")
         {
             string sceneName = SceneManager.GetActiveScene().name;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            if(SceneManager.GetActiveScene().buildIndex == 12) {
+                SceneManager.LoadScene("menu");
+            } else {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            }
             byte levelID = byte.Parse(sceneName.Remove(0, 5));
             PlayerPrefs.SetInt("level", levelID);
         }
